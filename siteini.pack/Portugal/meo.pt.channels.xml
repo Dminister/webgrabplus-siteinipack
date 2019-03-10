@@ -17,6 +17,10 @@
     <channel update="i" site="meo.pt" site_id="SICR" xmltv_id="SIC RADICAL">SIC RADICAL</channel>
     <channel update="i" site="meo.pt" site_id="Q" xmltv_id="Q">Q</channel>
     <channel update="i" site="meo.pt" site_id="RTPM" xmltv_id="RTP MEMÓRIA">RTP MEMÓRIA</channel>
+    <channel update="i" site="meo.pt" site_id="ELEV1HD" xmltv_id="Eleven Sports 1">Eleven Sports 1</channel>
+    <channel update="i" site="meo.pt" site_id="ELEV2HD" xmltv_id="Eleven Sports 2">Eleven Sports 2</channel>
+    <channel update="i" site="meo.pt" site_id="ELEV3HD" xmltv_id="Eleven Sports 3">Eleven Sports 3</channel>
+    <channel update="i" site="meo.pt" site_id="ELEV4HD" xmltv_id="Eleven Sports 4">Eleven Sports 4</channel>
     <channel update="i" site="meo.pt" site_id="SPTV1" xmltv_id="SPORT.TV1">SPORT.TV1</channel>
     <channel update="i" site="meo.pt" site_id="SPTV2" xmltv_id="SPORT.TV2">SPORT.TV2</channel>
     <channel update="i" site="meo.pt" site_id="SPTV3" xmltv_id="SPORT.TV3">SPORT.TV3</channel>
